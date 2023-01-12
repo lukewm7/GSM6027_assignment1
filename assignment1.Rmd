@@ -1,0 +1,12 @@
+---
+title: "assignment1"
+author: "Luke Werkmeister-Martin and Ben Kowalski"
+date: '2023-01-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
